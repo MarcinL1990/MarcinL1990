@@ -2,8 +2,11 @@
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-	![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+
+
+![](https://komarev.com/ghpvc/?username=MarcinL1990&color=yellow) 
+
 
 <!--
 **MarcinL1990/MarcinL1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
