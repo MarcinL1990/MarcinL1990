@@ -5,7 +5,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 
 
-![](https://komarev.com/ghpvc/?username=MarcinL1990&color=yellow&style=plastic) 
+![](https://komarev.com/ghpvc/?username=MarcinL1990&color=yellow&style=plastic&label=PROFILE+VIEWS) 
 
 
 <!--
